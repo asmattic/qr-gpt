@@ -25,7 +25,7 @@
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.0.0",
     "lucide-react": "^0.279.0",
-    "nanoid": "^5.0.1",
+    "nanoid": "^5.1.16",
     "next": "^13.5.2",
     "next-plausible": "^3.11.3",
     "postcss": "8.4.29",
